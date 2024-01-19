@@ -1,0 +1,13 @@
+Recipes_FR = {
+	Recipe_Make_97bushmaster_Bullbar = "Fabriquer Pare-buffle",
+	Recipe_Make_97bushmaster_Door = "Fabriquer Portière",
+	Recipe_Make_97bushmaster_Hatch = "Fabriquer Trappe",
+	Recipe_Make_97bushmaster_Hood = "Fabriquer Capot",
+	Recipe_Make_97bushmaster_Roof_Crates = "Fabriquer Caisses de toit",
+	Recipe_Make_97bushmaster_Storage_Lid_Large = "Fabriquer Fermeture de Rangement (Grand)",
+	Recipe_Make_97bushmaster_Storage_Lid_Small = "Fabriquer Fermeture de Rangement (Petit)",
+	Recipe_Make_97bushmaster_Window_Front = "Fabriquer Vitre avant",
+	Recipe_Make_97bushmaster_Window_Side = "Fabriquer Vitre latérale",
+	Recipe_Make_97bushmaster_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_97bushmaster_Windshield_Rear = "Fabriquer Pare-brise arrière",
+}
