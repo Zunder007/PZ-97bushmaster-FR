@@ -1,0 +1,4 @@
+Sandbox_FR = {
+	Sandbox_DAMN_Spawns = "KI5 | Apparitions garanties",
+	Sandbox_DAMN_AllowBushmasterSpawns = "Activer le préréglage '97 ADI Bushmaster Apparitions",
+}
