@@ -44,4 +44,11 @@ IG_UI_FR = {
 	IGUI_VehiclePartBUSHBullbar = "Pare-buffle",
 
 	IGUI_CraftCategory_Bushmaster = "'97 Bushmaster",
+
+	IGUI_VehiclePartBUSHStorageSpare = "Fond de roue de secours",
+	IGUI_VehiclePartBUSHCanOne = "Boîte latérale 1",
+	IGUI_VehiclePartBUSHCanTwo = "Boîte latérale 2",
+	IGUI_VehiclePartBUSHCanThree = "Boîte latérale 3",
+	IGUI_VehiclePartBUSHCanFour = "Boîte latérale 4",
+	IGUI_VehiclePartBUSHCanFive = "Boîte latérale 5",
 }
