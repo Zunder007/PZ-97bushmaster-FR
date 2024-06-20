@@ -10,4 +10,16 @@ Recipes_FR = {
 	Recipe_Make_97bushmaster_Window_Side = "Fabriquer Vitre latérale",
 	Recipe_Make_97bushmaster_Windshield = "Fabriquer Pare-brise",
 	Recipe_Make_97bushmaster_Windshield_Rear = "Fabriquer Pare-brise arrière",
+
+	Recipe_Dismantle_97_Bushmaster_Armor = "Démonter Blindage",
+	Recipe_Dismantle_97_Bushmaster_Door = "Démonter Portière",
+	Recipe_Dismantle_97_Bushmaster_Gastank = "Démonter Réservoir d'essence",
+	Recipe_Dismantle_97_Bushmaster_Lid = "Démonter Coffre",
+	Recipe_Dismantle_97_Bushmaster_Mudflaps = "Démonter Garde-boues",
+	Recipe_Dismantle_97_Bushmaster_Roof_Storage = "Démonter Caisses de toit",
+	Recipe_Dismantle_97_Bushmaster_Seat = "Démonter Siège",
+	Recipe_Dismantle_Obsolete_97_Bushmaster_Tire = "Démonter Pneu",
+	Recipe_Make_97_Bushmaster_Bullbar = "Fabriquer Pare-buffle",
+	Recipe_Make_97_Bushmaster_Mudflaps = "Fabriquer Garde-boues",
+	Recipe_Make_97_Bushmaster_Roof_Crates = "Fabriquer Caisses de toit",
 }
